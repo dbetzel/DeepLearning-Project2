@@ -1,5 +1,3 @@
-# Deep-Learning-Project-2
-Image Classification
 ## Running the Udacity Deep Learning Foundations image classification project on floydhub.com
 
 1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email). You will automatically receive 100 free GPU hours. 
